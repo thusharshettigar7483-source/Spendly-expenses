@@ -1,0 +1,6 @@
+{
+  "name": "Spendly Expense Tracker",
+  "description": "Tactile mobile-first personal wealth and daily expense tracker with live budget analytics, interactive charts, and local persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
